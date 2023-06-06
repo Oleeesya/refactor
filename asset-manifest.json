@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/refactor/static/css/main.006ae887.css",
+    "main.js": "/refactor/static/js/main.fa7e3b99.js",
+    "static/js/787.d6f8e2a9.chunk.js": "/refactor/static/js/787.d6f8e2a9.chunk.js",
+    "static/media/Inter-Black.woff": "/refactor/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Black.woff2": "/refactor/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "index.html": "/refactor/index.html",
+    "main.006ae887.css.map": "/refactor/static/css/main.006ae887.css.map",
+    "main.fa7e3b99.js.map": "/refactor/static/js/main.fa7e3b99.js.map",
+    "787.d6f8e2a9.chunk.js.map": "/refactor/static/js/787.d6f8e2a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006ae887.css",
+    "static/js/main.fa7e3b99.js"
+  ]
+}
