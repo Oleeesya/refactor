@@ -1,0 +1,12 @@
+.card__link {
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+}
+
+.card__link_color_red {
+    color: red;
+}
+
+.card__link_color_default {
+    color: #4b4949;
+}
